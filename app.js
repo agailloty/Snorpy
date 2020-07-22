@@ -13,7 +13,7 @@ var logging = false;
 //var dbuser = 'root';
 //var dbpass = 'root';
 var SSL = false;                    
-var httpport = 8080;
+var httpport = 8888;
 var httpsport = 4433;
 
 if (SSL) {
